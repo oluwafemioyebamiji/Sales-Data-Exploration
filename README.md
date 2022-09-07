@@ -14,12 +14,19 @@
 ## Summary of Findings
 
  > 92.70% of our sales counts are in shipped status. 
+
  > The top 5 countries by order count are USA, Spain, France, Australia and UK. 
+
  > In terms of count of orders classic cars, Vintage Cars and Motorcycles seems to be our hottest products.
+
  > Our Medium deal size is the best sold deal in terms of count of orders, even though it doesn't have much significant difference compared to the small deal size. We also explore this further too to see how revenue performance matches up to this deal sizes.
+
  > Our sales trend is very dynamic. We have discovered countries where we had the highest number of sales did not translate to the highest number of revenue for the company. Our Large deal size has also being the highest revenue stream while the medium size only enjoyed the highest number of patronage.
+
  > We also discovered that 2005 has the highest sales value and there is a positive correlation between quantity ordered and actual sales value.
+
  > Disputed makes the highest of our sales revenue followed by On Hold and then shipped.
+ 
  > It can be concluded that quantity ordered, price of each product and MSRP are strongly positively correlated to sales value. An increase in any of this value can give us an increase in the sales value
 
 
